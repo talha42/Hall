@@ -1,6 +1,5 @@
 <?php
 
-// database queries
 function connectDB(){
 	global $db;
 	$db = mysqli_connect('localhost','root','','hall');
