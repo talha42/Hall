@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- test -->
 <!-- Mirrored from moldthemes.com/mold_discover/about_page.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 14 Feb 2017 16:35:44 GMT -->
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
